@@ -1,7 +1,7 @@
 # SQL Challenge 01 : E-Commerce & Retail Analysis
 
 ## 📌 Overview
-This module focuses on relational database modeling and SQL analysis for an online retail business. You'll analyze customer behavior, sales trends, order items, product category performance, and customer retention.
+This project focuses on relational database modeling and SQL analysis for an online retail business. You'll analyze customer behavior, sales trends, order items, product category performance, and customer retention.
 
 ## 🗄️ Database Schema
 - **`customers`**: Stores profile information and join dates.
